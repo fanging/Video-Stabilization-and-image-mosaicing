@@ -1,2 +1,2 @@
 # Video-Stabilization-and-image-mosaicing
-This include application of Lucas Kanade algorithm using six parameter affine model such as video stabilization and Image mosaicing.
+This include application of Lucas Kanade algorithm using six parameter affine model such as video stabilization and Image mosaicing. Python code is attached for both of them. I used same lucas kanade algorithm which is present in my Lucas kanade Tracker repository. Since, image mosaicing and video stabilization are applications of lucas kanade algorithm. I have attached sample video for video stabilization and sample images for image mosaicing. Detailed algorithm is described in pdf attached with it. you simply clone the repository and run the code.
